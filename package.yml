@@ -1,0 +1,14 @@
+package: mediapool_dom_sort
+version: '1.0.0'
+author: Teufelgraphics
+supportpage: https://www.teufel-graphics.de
+page: false
+description: >
+  Das Addon sortiert die Auflistung im Medienpool per JavaScript nur im DOM.
+  Beim Neuladen erhält man wieder die ursprüngliche Sortierung.
+requires:
+  redaxo: '^5.0'
+assets:
+  backend:
+    js:
+      - assets/sort.js
