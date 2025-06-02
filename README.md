@@ -17,7 +17,7 @@ This addon enhances the REDAXO media pool by adding a client-side sorting featur
 
 1. Copy the repository to `redaxo/src/addons/`:
    ```bash
-   git clone https://github.com/youraccount/mediapool_dom_sort.git redaxo/src/addons/mediapool_dom_sort
+   git clone https://github.com/simonsinus/mediapool_dom_sort.git redaxo/src/addons/mediapool_dom_sort
    ```
 
 2. Activate the addon in the REDAXO backend.
